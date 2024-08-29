@@ -5,3 +5,7 @@
 ```
 $ bun install
 ```
+- Vite
+- React
+- TypeScript
+- Biome
